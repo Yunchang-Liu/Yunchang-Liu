@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Messi 👋
 
-<!--
-**Yunchang-Liu/Yunchang-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome!!!
 
-Here are some ideas to get you started:
+- 🌱 I’m an undergraduate student in BJUT
+- 📫 How to reach me: [1422857525@qq.com](mailto:1422857525@qq.com)
+- ⚡ Fun fact: ⚽⚽⚽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💗💙💚💛💜💝
+
+## OverView
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Yunchang-Liu&show_icons=true&theme=dark&count_private=true)
+
+## Language
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunchang-Liu&theme=dark&layout=compact)
