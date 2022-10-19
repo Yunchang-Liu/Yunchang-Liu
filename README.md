@@ -12,4 +12,4 @@ Welcome!!!
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Yunchang-Liu&show_icons=true&theme=dark&count_private=true)
 
 ## Language
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunchang-Liu&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunchang-Liu&hide=javascript,html,css&theme=dark&layout=compact)
