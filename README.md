@@ -2,8 +2,8 @@
 
 Welcome!!!
 
-- 🌱 I’m an undergraduate student in BJUT
-- 📫 How to reach me: [1422857525@qq.com](mailto:1422857525@qq.com)
+- 🌱 I’m a master student in SEU
+- 📫 How to reach me: [yunchangliu@seu.edu.cn](mailto:yunchangliu@seu.edu.cn)
 - ⚡ Fun fact: ⚽⚽⚽
 
 💗💙💚💛💜💝
